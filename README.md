@@ -1,3 +1,6 @@
+20210220　アプリケーションを完成させよう2のために新しく作成したリポジトリ
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
